@@ -8,7 +8,7 @@
     text-align: center;   
 }
 .banner-content{
-    background: url(/assets/images/banner.png) no-repeat;
+    background: url(./images/banner.png) no-repeat;
     width: inherit;
     height: inherit;
     padding: 2px;  
@@ -112,7 +112,7 @@ span{
 #transform-world{
     width: 100%;
     height: 350px;
-    background-image:url(/assets/images/woman-code.png);
+    background-image:url(./images/woman-code.png);
     background-color: rgba(0, 0, 0, 1);
     background-size:cover;
     background-repeat:no-repeat;
